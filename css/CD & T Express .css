@@ -702,4 +702,7 @@
         /* margin: 100px 0; */
         padding: 28px;
     }
+    .profit-container {
+        flex-direction: column;
+    }
 } 
