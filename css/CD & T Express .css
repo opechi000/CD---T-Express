@@ -370,6 +370,9 @@
 
 
 /******************************rate*******************************/
+/* .section-tracker{
+    padding: 100px 0;
+} */
 .tracker-container{
     margin: 0 auto;
     display: flex;
@@ -694,5 +697,9 @@
     } 
     .span-head{
         font-size: 50px;
+    }
+    .tracker-content {
+        /* margin: 100px 0; */
+        padding: 28px;
     }
 } 
